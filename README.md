@@ -1,0 +1,3 @@
+# actPerimetroArea
+Este programa es un menú para calcular área o perímetro de figuras geométricas aquí podremos ver distintas figuras como el circulo, triangulo, cuadrado, etc ...
+

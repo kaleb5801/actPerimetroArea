@@ -23,7 +23,7 @@ public class Menu {
     }
 
 
-    public void Show_Switch() {
+    public void ShowMenuSec() {
         ShowMenu();
             pregunta();
             switch (menu) {
